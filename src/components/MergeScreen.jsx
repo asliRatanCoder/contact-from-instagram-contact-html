@@ -16,7 +16,7 @@ export default function MergeScreen({
   return (
     <div className="app">
       <Header
-        logo="�"
+        logo="📇"
         title="Merge Duplicates"
         subtitle="Select which name to keep for each phone number"
       />
