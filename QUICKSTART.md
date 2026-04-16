@@ -2,7 +2,7 @@
 
 Welcome to Contact Restorer! This guide will help you get started quickly.
 
-## 🚀 Getting Started (5 minutes)
+## 🚀 Getting Started (6 minutes)
 
 ### 1. Local Development
 
