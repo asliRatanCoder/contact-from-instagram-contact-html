@@ -4,6 +4,7 @@ A professional web application to convert HTML contact files (like Instagram/Fac
 
 ## Features ✨
 
+
 - **Easy Upload**: Drag & drop or click to upload HTML files
 - **Multiple Formats**: Export to CSV, vCard, and JSON
 - **Smart Parser**: Automatically detects and extracts contacts from various HTML structures
